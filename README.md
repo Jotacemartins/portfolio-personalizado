@@ -14,7 +14,6 @@ JavaScript
 * JavaScript
 
 
-# LINK do projeto: https://jotacemartins.github.io/meu-porfolio/
 
 
 ## Etiquetas
