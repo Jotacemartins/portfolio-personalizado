@@ -1,7 +1,7 @@
 
 # PROJETO MEU PORTFÓLIO
 
-Esse é um projeto simples, onde eu criei o meu portfólio com base nos videos especiais da semana do programador do canal: DEV em DOBRO
+Esse é um projeto simples, onde eu criei o meu portfólio!
 
 Tecnologias Usadas
 HTML
@@ -14,7 +14,6 @@ JavaScript
 * JavaScript
 
 
-# LINK do projeto: https://jotacemartins.github.io/meu-porfolio/
 
 
 ## Etiquetas
